@@ -1,0 +1,17 @@
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\domainData\CurrencyMatrixMap.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\model\CurrencyMatrix.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\BO\ConversionStrategy\ConversionStrategy.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\BO\Converter.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\model\ConvertedUnit.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\model\CurrencyUnit.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\BO\ConversionStrategy\CrossConversionStrategy.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\BO\ConversionStrategy\OneOnOneStrategy.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\BO\ConversionStrategy\InvertedDirectFeedStrategy.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\BO\MyInputParserImpl.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\domainData\CurrencyDecimalPlacesMap.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\domainData\DirectFeed.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\BO\InputParser.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\BO\ConversionStrategy\DirectFeedStrategy.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\main\CurrencyConverter.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\BO\StrategyBuilder.java
+C:\LocalRepo\CurrencyConverter\src\main\java\org\anzFXCalculator\BO\MyConverterImpl.java
